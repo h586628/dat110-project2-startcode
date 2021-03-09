@@ -11,7 +11,7 @@ public class StopableExampleMain {
 		StopableExample t = new StopableExample();
 		
 		t.start();
-		
+				
 		try {
 			
 			Thread.sleep(RUNNINGTIME); 
